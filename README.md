@@ -1,6 +1,5 @@
 # MusicGenreClassification
-Evaluation of different Machine Learning Algorithms for Music Genre Classification
-
+# Evaluation of different Machine Learning Algorithms for Music Genre Classification
 
 
 Supervised and Unsupervised Classification Algorithms have been used to Evaluate the Accuracy of Classification of a song to a Genre:
