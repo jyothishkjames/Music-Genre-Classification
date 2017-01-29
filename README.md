@@ -1,2 +1,2 @@
 # MusicGenreClassification
-Evaluation of different Machine Learning Algorithms for Classifying different Genres in Music 
+Evaluation of different Machine Learning Algorithms for Music Genre Classification
