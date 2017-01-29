@@ -144,9 +144,9 @@ print(train_label)
     
 #print("Confusion Matrix",confusion_matrix(test_label, test_predicted))
 
-#ac=accuracy_score(test_predicted,test_label)
+ac=accuracy_score(test_predicted,test_label)
 
-#print("Accuracy", ac)
+print("Accuracy", ac)
 
 #tn, fp, fn, tp = confusion_matrix(test_label, test_predicted).ravel()
 
