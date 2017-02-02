@@ -3,7 +3,7 @@
 
 Supervised and Unsupervised Classification Algorithms have been used to Evaluate the Accuracy of Classification of a song to a Genre:
 
-Procedure followed for preparing the Trains and Test datasets.
+Procedure followed for preparing the Train and Test datasets.
 
 Step1: Convert the dataset in MP3 to WAV format.
 
