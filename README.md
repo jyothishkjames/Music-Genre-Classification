@@ -9,7 +9,7 @@ Step1: Convert the dataset in MP3 to WAV format.
 
 Step2: Label the train and test dataset with the respective Genre.
 
-Step3: Extract the features of the train and test dataset using MFCC feature extraction algorithm.
+Step3: Extract the features of train and test dataset using MFCC feature extraction algorithm.
 
 Step4: Store the extracted features as a Pickle file.
 
