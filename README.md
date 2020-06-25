@@ -3,8 +3,8 @@
 Getting Started
 ---------------
 
-This project uses Supervised and Unsupervised Classification Algorithms to evaluate 
-the accuracy of classifying a song to a Genre.
+This project evaluates different Supervised and Unsupervised Machine learning 
+algorithms for classifying a song to a Genre.
 
 Prerequisites
 -------------
