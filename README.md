@@ -18,12 +18,12 @@ Prerequisites
 Procedure followed to prepare the train and test datasets:
 ----------------------------------------------------------
 
-Step1: Convert the dataset in MP3 to WAV format.
+Step 1: Convert the dataset in MP3 to WAV format.
 
-Step2: Label the train and test dataset with the respective Genre.
+Step 2: Label the train and test dataset with the respective Genre.
 
-Step3: Extract the features of train and test dataset using MFCC feature extraction algorithm.
+Step 3: Extract the features of train and test dataset using MFCC feature extraction algorithm.
 
-Step4: Store the extracted features as a Pickle file.
+Step 4: Store the extracted features as a Pickle file.
 
-Step5: Use various Machine Learning Algorithms to compare the Accuracy of Classification.
+Step 5: Use various Machine Learning Algorithms to compare the Accuracy of Classification.
