@@ -1,0 +1,5 @@
+scipy==1.2.2
+numpy==1.16.6
+scikits.talkbox==0.2.5
+pydub==0.24.1
+sklearn==0.20.4
